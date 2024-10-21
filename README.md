@@ -1,4 +1,4 @@
-# Academic Project Page Template
+# UNPIE
 This is an academic paper project page template.
 
 
